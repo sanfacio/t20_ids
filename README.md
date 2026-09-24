@@ -4,6 +4,17 @@
 
 Al terminar, cada equipo habrá propuesto una primera versión viable de un plan para rescatar un proyecto de software: aclarará necesidades, priorizará trabajo, definirá una solución inicial, acordará cómo asegurar calidad y explicará sus decisiones. El énfasis está en la comunicación, la escucha y la construcción conjunta, no en encontrar una única respuesta correcta.
 
+## Entregables
+
+Cada equipo prepara una sola hoja, diapositiva o tablero con:
+
+1. Sus tres preguntas o supuestos principales.
+2. De 4 a 6 historias de usuario y criterios de aceptación de las dos prioritarias.
+3. La priorización y el alcance del primer incremento.
+4. Un boceto de la solución inicial.
+5. Acuerdos de calidad, entrega y colaboración.
+6. Los ajustes realizados ante el cambio inesperado.
+
 ## Escenario: Proyecto CampusGo
 
 La universidad desea lanzar **CampusGo**, una aplicación para estudiantes que permita:
